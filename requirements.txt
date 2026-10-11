@@ -1,5 +1,5 @@
 streamlit
-torch
-transformers
+torch==2.11.0
+transformers==5.18.0
 sentencepiece
 pandas
