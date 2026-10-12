@@ -1,0 +1,10 @@
+datasets
+scikit-learn
+pandas
+matplotlib
+gensim
+tensorflow
+accelerate
+sentencepiece
+transformers==5.18.0
+torch==2.11.0
