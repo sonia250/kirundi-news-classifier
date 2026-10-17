@@ -5,8 +5,8 @@ NLP Summative Project, African Leadership University. Text classification for Ki
 ## Links
 - **Live app:** https://kirundi-news-classifier.streamlit.app/
 - **Fine-tuned model:** https://huggingface.co/sonia250/afriberta-kirundi-news
-- **Demo video:** (add link)
-- **Report:** (add link or see submission)
+- **Demo video:** 
+- **Report:** submission
 
 ## Problem
 Classify Kirundi news articles into six topics: business, entertainment, health, politics, religion, sports.
